@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Surtido Pedidos",
+    "slug": "surtido-pedidos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/surtido.png",
+    "android": { "package": "gt.surtido.pedidos" },
+    "ios": { "bundleIdentifier": "gt.surtido.pedidos" }
+  }
+}
